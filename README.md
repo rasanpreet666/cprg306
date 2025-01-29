@@ -1,1 +1,1 @@
-# cprg306
+# cprg306-assignments
